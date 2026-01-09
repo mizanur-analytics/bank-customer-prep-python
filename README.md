@@ -5,6 +5,7 @@ This project focuses on preparing bank customer data for predictive modeling, ai
 - Clean and transform the dataset to ensure consistency  
 - Create a structured dataset ready for machine learning models  
 The goal is to support churn prediction, enabling banks to improve retention strategies and customer engagement.
+![Screenshot_19](https://github.com/user-attachments/assets/3007b26e-6cc2-4679-a07b-e682be6ca046)
 # Bank Customer Data Prep_Python
 **Project Type:** Python Data Cleaning & Exploration + Machine Learning Prep  
 **Dataset:** Bank Customer Churn (10,000 European bank accounts)  
@@ -53,8 +54,9 @@ Each row represents one customer. Data may include missing values, duplicates, o
 ## Product Insights
 - Products like credit cards and multiple accounts influence retention  
 - Salary alone is not a strong churn predictor  
-*(Dashboard screenshot placeholder)*
-
+![Screenshot_9](https://github.com/user-attachments/assets/43a72571-5630-4852-a5c9-bff43c3eb6cf)
+![Screenshot_14](https://github.com/user-attachments/assets/a833c89f-c591-4d43-94f5-246ba844a01f)
+![Screenshot_27](https://github.com/user-attachments/assets/6cd29093-b096-461d-acb3-db5b68deeeb2)
 # Project Insights
 ## Quantified Value
 - Data cleaning reduced missing values from 15% to near 0%  
