@@ -10,7 +10,7 @@ The goal is to support churn prediction, enabling banks to improve retention str
 **Dataset:** Bank Customer Churn (10,000 European bank accounts)  
 **Tools:** Python (pandas, numpy, matplotlib, seaborn), Jupyter Notebook, Power BI / Tableau # Data Structure
 # Data Structure
-The dataset contains customer account information with the following key columns:
+The dataset contains customer account information with the following key columns: <a href = "https://github.com/mizanur-analytics/bank-customer-prep-python/blob/main/Bank_Churn_Messy.xlsx">bank_customer_churn</a>
 | Column           | Description                               |
 |------------------|-------------------------------------------|
 | CustomerID       | Unique identifier for each customer       |
